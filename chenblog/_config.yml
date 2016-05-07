@@ -21,14 +21,14 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://cscumt.com/images
+  IMAGE_PATH : http://blog.cscumt.com/images
 
 # presonal config
 domain: http://cscumt.com
-title: Lippi-浮生�?description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+title: chen's blog
+author: 
+email: 
+github: cumt6868
 
 config:
   js_dir:
