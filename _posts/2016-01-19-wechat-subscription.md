@@ -197,11 +197,7 @@ iOS 客户端界面
 
 ——纯银V
 
-----
 
-- 陈素封
-- 公众号：cnfeat
-- Blog：cnfeat.com
 
 
 
