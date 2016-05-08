@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: chen
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈超|读而立·写而生"  
+description: "陈超|chen'blog"  
 baseurl: ""
 url: "http://blog.cscumt.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " cumt醋"
+  email: 920658920@qq.com
   bio: "写就是写的报酬"
 
 # Data
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Xuzhou
 
 # Defaults for posts
 defaults:
@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : cumt醋
   disqus :
-      short_name : cnfeat
+      short_name : cumt醋
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
