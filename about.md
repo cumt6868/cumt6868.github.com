@@ -47,12 +47,13 @@ header-img: "img/green.jpg"
 
 ### 联系
 
+- [个人主页](http://cscumt.com)
 
-- [微博](http://weibo.com)
+- [微    博](http://weibo.com)
 
-- [知乎](http://www.zhihu.com)
+- [知    乎](http://www.zhihu.com)
 
-- 公众号：XXX
+- 公 众 号：XXX
 
 
 <center>
